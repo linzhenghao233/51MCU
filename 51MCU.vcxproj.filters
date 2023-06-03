@@ -18,5 +18,8 @@
     <ClCompile Include="light.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="light0603.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
